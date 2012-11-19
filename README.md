@@ -12,11 +12,11 @@ A month-long performance piece for sound and light at the Bootleg Theater in Los
 
 **Hardware**
 
-- Enttec Pro (*USB/DMX interface*)
-- DMX King ultraDMX Micro (*USB/DMX interface*)
-- Chauvet Slimpar64 (*LED fixture*)
-- Chauvet Pro-D6 dimmer pack (*DMX control*)
-- Chauvet colorTube (*LED fixture*)
+- Enttec Pro (USB/DMX interface)
+- DMX King ultraDMX Micro (USB/DMX interface)
+- Chauvet Slimpar64 (LED fixture)
+- Chauvet Pro-D6 dimmer pack (DMX control)
+- Chauvet colorTube (LED fixture)
 
 **Directory structure**
 
