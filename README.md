@@ -30,4 +30,4 @@ A month long evolving performance/installation for sound and light at the Bootle
 
 ## Log
 
-**11/18/12**: Talked about initial ideas at ATX. Purchased fluorescent bulb example (need to assemble), Chauvet colorTUBE and dimmer pack. “Hello world” with ofxDMX with two slimPARs. Configured initial directory structure and spun up git repo.
+**11/18/12**: Talked about initial ideas at ATX. Purchased fluorescent bulb example (need to assemble), Chauvet colorTUBE and dimmer pack. “Hello world” with ofxDMX and two slimPARs. Configured initial directory structure and spun up git repo.
