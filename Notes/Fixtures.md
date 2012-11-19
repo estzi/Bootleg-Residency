@@ -8,15 +8,19 @@ It is important to realize when dimming fluorescents that it is impossible to cr
 Phase dimming, SCR dimming.
 
 ### Potential problems
-Dimming could create interference with audio. Will need to purchase housing for each bulb. Will need to purchase dimmer packs.
+Dimming could create interference with audio. Will need to purchase housing for each bulb. Will need to purchase dimmer packs. Needs custom wiring.
 
 ## LED Fixtures
 
 ### [Eurolite LED pixel tube](http://www.thomann.de/gb/eurolite_led_dmx_pixel_tube_16_rgb_ip20.htm)
 
-Eurolite LED DMX Pixel Tube 16 RGB IP20 - multi-colour LED-tube, DMX controlled via any standard DMX controller, thomann suitable for DMX control and stand alone control (selectable via dip switches), speed and dimmer adjustable via dip switches, tube with 144x LEDs (48x red, 48x green & 48x blue)
+Eurolite LED DMX Pixel Tube 16 RGB IP20 - multi-colour LED-tube, DMX controlled via any standard DMX controller, thomann suitable for DMX control and stand alone control (selectable via dip switches), speed and dimmer adjustable via dip switches, tube with 144x LEDs (48x red, 48x green & 48x blue).
+
+**Potential problems**: No US dealer, will need to ship overseas.
 
 ### [Chauvet COLORtube](http://www.amazon.com/Chauvet-COLORtube-3-0-EQ-CHAUVET/dp/B003HGT7MG)
+
+Chauvet's version of the Eurolite. 
 
 
 
