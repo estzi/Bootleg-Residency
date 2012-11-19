@@ -1,5 +1,5 @@
-Bootleg Residency
-=================
+⊶⋀⋁⊷
+===================
 
 A month-long performance piece for sound and light at the Bootleg Theater in Los Angeles, Calif.
 
@@ -7,6 +7,9 @@ A month-long performance piece for sound and light at the Bootleg Theater in Los
 
 - openFrameworks
 - Ableton Live
+
+**ofx Dependancies**
+
 - [ofxDmx](https://github.com/kylemcdonald/ofxDmx) wrapper
 
 
